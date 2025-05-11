@@ -1,2 +1,2 @@
-# Furniture
-I am hosting a furniture website
+# furniture
+I am created website for my father
